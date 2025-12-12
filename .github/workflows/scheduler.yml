@@ -1,0 +1,58 @@
+name: Update Stats and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch: # Allow manual run
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Update Script
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python3 scripts/update_stats.py
+          
+      - name: Commit Stats
+        run: |
+          git config --global user.name 'LeetCode Tracker Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add data/stats.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stats" && git push)
+          
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: site/package-lock.json
+
+      - name: Build Site
+        working-directory: ./site
+        run: |
+          npm ci
+          npm run build
+          # Copy data into build folder so it's served nicely
+          cp ../data/stats.json dist/stats.json
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site/dist

@@ -1,0 +1,22 @@
+# System
+.DS_Store
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+site/node_modules/
+site/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Local data (optional, but we usually want to commit initial data, but ignore local updates if we used a real DB. Here we use JSON as DB, so we DO commit it)
+# data/stats.json
