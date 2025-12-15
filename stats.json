@@ -24,6 +24,18 @@
       "weekly_baseline": 0,
       "last_check_solved": 0,
       "history": []
+    },
+    "danielchou77": {
+      "total_solved": 0,
+      "weekly_baseline": 0,
+      "last_check_solved": 0,
+      "history": []
+    },
+    "ringo_wang": {
+      "total_solved": 1,
+      "weekly_baseline": 1,
+      "last_check_solved": 1,
+      "history": []
     }
   }
 }
