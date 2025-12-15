@@ -1,24 +1,11 @@
 {
-  "week_start": "2025-12-08T00:00:00+00:00",
+  "week_start": "2025-12-15T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 5,
-      "weekly_baseline": 3,
+      "weekly_baseline": 5,
       "last_check_solved": 5,
-      "history": [
-        {
-          "id": "1850322956",
-          "title": "Contains Duplicate II",
-          "titleSlug": "contains-duplicate-ii",
-          "timestamp": "1765211274"
-        },
-        {
-          "id": "1853398924",
-          "title": "Reverse Linked List",
-          "titleSlug": "reverse-linked-list",
-          "timestamp": "1765512052"
-        }
-      ]
+      "history": []
     },
     "lynda0214": {
       "total_solved": 91,
