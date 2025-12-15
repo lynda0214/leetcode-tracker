@@ -36,6 +36,12 @@
       "weekly_baseline": 1,
       "last_check_solved": 1,
       "history": []
+    },
+    "papple23g": {
+      "total_solved": 106,
+      "weekly_baseline": 106,
+      "last_check_solved": 106,
+      "history": []
     }
   }
 }
