@@ -103,6 +103,16 @@ const UserRow = ({ user, rank }) => {
         }`}>
           {rank}
         </div>
+
+        <img 
+          src={new URL(`../assets/${user.username}.png`, import.meta.url).href}
+          alt={user.username}
+          className="w-10 h-10 rounded-full mr-4 object-cover border-2 border-[#444]"
+          onError={(e) => {
+            e.target.onerror = null; 
+            e.target.style.display = 'none'; // Fallback: hide if missing
+          }}
+        />
         
         <div className="flex-1">
           <h3 className="text-lg font-medium text-white flex items-center hover:text-blue-400 transition-colors">
