@@ -8,10 +8,28 @@
       "history": []
     },
     "lynda0214": {
-      "total_solved": 91,
-      "weekly_baseline": 89,
+      "total_solved": 93,
+      "weekly_baseline": 88,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1857188766",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "timestamp": "1765893875"
+        },
+        {
+          "id": "1857321412",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "timestamp": "1765903182"
+        },
+        {
+          "id": "1857339420",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "timestamp": "1765904290"
+        },
         {
           "id": "1857025367",
           "title": "Valid Anagram",
