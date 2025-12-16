@@ -49,6 +49,25 @@
       "weekly_baseline": 106,
       "last_check_solved": 106,
       "history": []
+    },
+    "walter1618": {
+      "total_solved": 86,
+      "weekly_baseline": 84,
+      "last_check_solved": 86,
+      "history": [
+        {
+          "id": "1856389594",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "timestamp": "1765814478"
+        },
+        {
+          "id": "1856419141",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "timestamp": "1765816297"
+        }
+      ]
     }
   }
 }
