@@ -13,6 +13,12 @@
       "last_check_solved": 91,
       "history": [
         {
+          "id": "1857025367",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "timestamp": "1765879210"
+        },
+        {
           "id": "1856851676",
           "title": "Contains Duplicate",
           "titleSlug": "contains-duplicate",
