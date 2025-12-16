@@ -9,9 +9,21 @@
     },
     "lynda0214": {
       "total_solved": 91,
-      "weekly_baseline": 90,
+      "weekly_baseline": 89,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1856851676",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "timestamp": "1765863990"
+        },
+        {
+          "id": "1856862751",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "timestamp": "1765864857"
+        },
         {
           "id": "1856425435",
           "title": "Contains Duplicate",
