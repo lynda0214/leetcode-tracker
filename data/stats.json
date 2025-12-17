@@ -93,10 +93,16 @@
       "history": []
     },
     "walter1618": {
-      "total_solved": 86,
+      "total_solved": 87,
       "weekly_baseline": 84,
       "last_check_solved": 86,
       "history": [
+        {
+          "id": "1858168614",
+          "title": "Koko Eating Bananas",
+          "titleSlug": "koko-eating-bananas",
+          "timestamp": "1765986264"
+        },
         {
           "id": "1856389594",
           "title": "Search a 2D Matrix",
