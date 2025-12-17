@@ -13,6 +13,12 @@
       "last_check_solved": 91,
       "history": [
         {
+          "id": "1857897125",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "timestamp": "1765963723"
+        },
+        {
           "id": "1857188766",
           "title": "Two Sum",
           "titleSlug": "two-sum",
@@ -81,7 +87,7 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 106,
+      "total_solved": 107,
       "weekly_baseline": 106,
       "last_check_solved": 106,
       "history": []
