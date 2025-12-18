@@ -93,10 +93,16 @@
       "history": []
     },
     "walter1618": {
-      "total_solved": 87,
+      "total_solved": 88,
       "weekly_baseline": 84,
       "last_check_solved": 86,
       "history": [
+        {
+          "id": "1859073838",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "timestamp": "1766074428"
+        },
         {
           "id": "1858440010",
           "title": "Koko Eating Bananas",
