@@ -87,7 +87,7 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 107,
+      "total_solved": 108,
       "weekly_baseline": 106,
       "last_check_solved": 106,
       "history": []
@@ -97,6 +97,12 @@
       "weekly_baseline": 84,
       "last_check_solved": 86,
       "history": [
+        {
+          "id": "1858440010",
+          "title": "Koko Eating Bananas",
+          "titleSlug": "koko-eating-bananas",
+          "timestamp": "1766012390"
+        },
         {
           "id": "1858168614",
           "title": "Koko Eating Bananas",
