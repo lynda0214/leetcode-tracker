@@ -63,10 +63,17 @@
       ]
     },
     "ssbomb": {
-      "total_solved": 0,
+      "total_solved": 1,
       "weekly_baseline": 0,
       "last_check_solved": 0,
-      "history": []
+      "history": [
+        {
+          "id": "1859599660",
+          "title": "Koko Eating Bananas",
+          "titleSlug": "koko-eating-bananas",
+          "timestamp": "1766131977"
+        }
+      ]
     },
     "johnwang00": {
       "total_solved": 0,
@@ -81,10 +88,23 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 1,
+      "total_solved": 3,
       "weekly_baseline": 1,
       "last_check_solved": 1,
-      "history": []
+      "history": [
+        {
+          "id": "1859577179",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "timestamp": "1766129842"
+        },
+        {
+          "id": "1859720450",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "timestamp": "1766142870"
+        }
+      ]
     },
     "papple23g": {
       "total_solved": 109,
