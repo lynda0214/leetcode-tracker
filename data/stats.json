@@ -88,10 +88,22 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 3,
+      "total_solved": 4,
       "weekly_baseline": 1,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1859825597",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "timestamp": "1766152945"
+        },
+        {
+          "id": "1859881494",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "timestamp": "1766157691"
+        },
         {
           "id": "1859577179",
           "title": "Two Sum",
@@ -107,7 +119,7 @@
       ]
     },
     "papple23g": {
-      "total_solved": 109,
+      "total_solved": 110,
       "weekly_baseline": 106,
       "last_check_solved": 106,
       "history": []
