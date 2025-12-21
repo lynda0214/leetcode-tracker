@@ -8,10 +8,22 @@
       "history": []
     },
     "lynda0214": {
-      "total_solved": 93,
+      "total_solved": 95,
       "weekly_baseline": 88,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1861065539",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "timestamp": "1766277474"
+        },
+        {
+          "id": "1861072747",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "timestamp": "1766279013"
+        },
         {
           "id": "1857897125",
           "title": "Top K Frequent Elements",
