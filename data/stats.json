@@ -106,10 +106,22 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 5,
+      "total_solved": 6,
       "weekly_baseline": 1,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1861493501",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "timestamp": "1766316557"
+        },
+        {
+          "id": "1861495518",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "timestamp": "1766316755"
+        },
         {
           "id": "1861263027",
           "title": "Longest Common Prefix",
