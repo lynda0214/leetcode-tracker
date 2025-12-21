@@ -106,10 +106,22 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 6,
+      "total_solved": 8,
       "weekly_baseline": 1,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1861590896",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "timestamp": "1766325422"
+        },
+        {
+          "id": "1861681385",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "timestamp": "1766332681"
+        },
         {
           "id": "1861493501",
           "title": "Valid Parentheses",
