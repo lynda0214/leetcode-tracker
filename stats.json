@@ -8,10 +8,16 @@
       "history": []
     },
     "lynda0214": {
-      "total_solved": 95,
+      "total_solved": 96,
       "weekly_baseline": 88,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1861078573",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "timestamp": "1766280255"
+        },
         {
           "id": "1861065539",
           "title": "Product of Array Except Self",
@@ -100,10 +106,16 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 4,
+      "total_solved": 5,
       "weekly_baseline": 1,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1861263027",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "timestamp": "1766295043"
+        },
         {
           "id": "1860711419",
           "title": "Palindrome Number",
