@@ -2,22 +2,61 @@
   "week_start": "2025-12-22T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 5,
+      "total_solved": 9,
       "weekly_baseline": 5,
       "last_check_solved": 5,
-      "history": []
+      "history": [
+        {
+          "id": "1861996468",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "timestamp": "1766371677"
+        },
+        {
+          "id": "1862024229",
+          "title": "Palindrome Linked List",
+          "titleSlug": "palindrome-linked-list",
+          "timestamp": "1766375541"
+        },
+        {
+          "id": "1862048675",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "timestamp": "1766378145"
+        },
+        {
+          "id": "1862060349",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "timestamp": "1766379205"
+        }
+      ]
     },
     "lynda0214": {
       "total_solved": 96,
-      "weekly_baseline": 96,
+      "weekly_baseline": 95,
       "last_check_solved": 91,
-      "history": []
+      "history": [
+        {
+          "id": "1861979358",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "timestamp": "1766368879"
+        }
+      ]
     },
     "ssbomb": {
-      "total_solved": 1,
+      "total_solved": 2,
       "weekly_baseline": 1,
       "last_check_solved": 0,
-      "history": []
+      "history": [
+        {
+          "id": "1862026441",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "timestamp": "1766375805"
+        }
+      ]
     },
     "johnwang00": {
       "total_solved": 0,
