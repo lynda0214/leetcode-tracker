@@ -40,9 +40,15 @@
     },
     "lynda0214": {
       "total_solved": 96,
-      "weekly_baseline": 95,
+      "weekly_baseline": 94,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1862536958",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "timestamp": "1766418430"
+        },
         {
           "id": "1861979358",
           "title": "Valid Palindrome",
@@ -77,10 +83,29 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 8,
+      "total_solved": 11,
       "weekly_baseline": 8,
       "last_check_solved": 1,
-      "history": []
+      "history": [
+        {
+          "id": "1862483324",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "timestamp": "1766414534"
+        },
+        {
+          "id": "1862515103",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "timestamp": "1766416889"
+        },
+        {
+          "id": "1862529960",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "timestamp": "1766417942"
+        }
+      ]
     },
     "papple23g": {
       "total_solved": 110,
@@ -89,10 +114,17 @@
       "history": []
     },
     "walter1618": {
-      "total_solved": 88,
+      "total_solved": 89,
       "weekly_baseline": 88,
       "last_check_solved": 86,
-      "history": []
+      "history": [
+        {
+          "id": "1862520060",
+          "title": "Search in Rotated Sorted Array",
+          "titleSlug": "search-in-rotated-sorted-array",
+          "timestamp": "1766417245"
+        }
+      ]
     }
   }
 }
