@@ -1,5 +1,5 @@
 {
-  "week_start": "2025-12-15T00:00:00+00:00",
+  "week_start": "2025-12-22T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 5,
@@ -9,89 +9,15 @@
     },
     "lynda0214": {
       "total_solved": 96,
-      "weekly_baseline": 88,
+      "weekly_baseline": 96,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1861078573",
-          "title": "Longest Consecutive Sequence",
-          "titleSlug": "longest-consecutive-sequence",
-          "timestamp": "1766280255"
-        },
-        {
-          "id": "1861065539",
-          "title": "Product of Array Except Self",
-          "titleSlug": "product-of-array-except-self",
-          "timestamp": "1766277474"
-        },
-        {
-          "id": "1861072747",
-          "title": "Valid Sudoku",
-          "titleSlug": "valid-sudoku",
-          "timestamp": "1766279013"
-        },
-        {
-          "id": "1857897125",
-          "title": "Top K Frequent Elements",
-          "titleSlug": "top-k-frequent-elements",
-          "timestamp": "1765963723"
-        },
-        {
-          "id": "1857188766",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
-          "timestamp": "1765893875"
-        },
-        {
-          "id": "1857321412",
-          "title": "Group Anagrams",
-          "titleSlug": "group-anagrams",
-          "timestamp": "1765903182"
-        },
-        {
-          "id": "1857339420",
-          "title": "Top K Frequent Elements",
-          "titleSlug": "top-k-frequent-elements",
-          "timestamp": "1765904290"
-        },
-        {
-          "id": "1857025367",
-          "title": "Valid Anagram",
-          "titleSlug": "valid-anagram",
-          "timestamp": "1765879210"
-        },
-        {
-          "id": "1856851676",
-          "title": "Contains Duplicate",
-          "titleSlug": "contains-duplicate",
-          "timestamp": "1765863990"
-        },
-        {
-          "id": "1856862751",
-          "title": "Valid Anagram",
-          "titleSlug": "valid-anagram",
-          "timestamp": "1765864857"
-        },
-        {
-          "id": "1856425435",
-          "title": "Contains Duplicate",
-          "titleSlug": "contains-duplicate",
-          "timestamp": "1765816671"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 1,
-      "weekly_baseline": 0,
+      "weekly_baseline": 1,
       "last_check_solved": 0,
-      "history": [
-        {
-          "id": "1859599660",
-          "title": "Koko Eating Bananas",
-          "titleSlug": "koko-eating-bananas",
-          "timestamp": "1766131977"
-        }
-      ]
+      "history": []
     },
     "johnwang00": {
       "total_solved": 0,
@@ -107,113 +33,21 @@
     },
     "ringo_wang": {
       "total_solved": 8,
-      "weekly_baseline": 1,
+      "weekly_baseline": 8,
       "last_check_solved": 1,
-      "history": [
-        {
-          "id": "1861590896",
-          "title": "Merge Two Sorted Lists",
-          "titleSlug": "merge-two-sorted-lists",
-          "timestamp": "1766325422"
-        },
-        {
-          "id": "1861681385",
-          "title": "Remove Duplicates from Sorted Array",
-          "titleSlug": "remove-duplicates-from-sorted-array",
-          "timestamp": "1766332681"
-        },
-        {
-          "id": "1861493501",
-          "title": "Valid Parentheses",
-          "titleSlug": "valid-parentheses",
-          "timestamp": "1766316557"
-        },
-        {
-          "id": "1861495518",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
-          "timestamp": "1766316755"
-        },
-        {
-          "id": "1861263027",
-          "title": "Longest Common Prefix",
-          "titleSlug": "longest-common-prefix",
-          "timestamp": "1766295043"
-        },
-        {
-          "id": "1860711419",
-          "title": "Palindrome Number",
-          "titleSlug": "palindrome-number",
-          "timestamp": "1766243388"
-        },
-        {
-          "id": "1859825597",
-          "title": "Palindrome Number",
-          "titleSlug": "palindrome-number",
-          "timestamp": "1766152945"
-        },
-        {
-          "id": "1859881494",
-          "title": "Roman to Integer",
-          "titleSlug": "roman-to-integer",
-          "timestamp": "1766157691"
-        },
-        {
-          "id": "1859577179",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
-          "timestamp": "1766129842"
-        },
-        {
-          "id": "1859720450",
-          "title": "Palindrome Number",
-          "titleSlug": "palindrome-number",
-          "timestamp": "1766142870"
-        }
-      ]
+      "history": []
     },
     "papple23g": {
       "total_solved": 110,
-      "weekly_baseline": 106,
+      "weekly_baseline": 110,
       "last_check_solved": 106,
       "history": []
     },
     "walter1618": {
       "total_solved": 88,
-      "weekly_baseline": 84,
+      "weekly_baseline": 88,
       "last_check_solved": 86,
-      "history": [
-        {
-          "id": "1859073838",
-          "title": "Find Minimum in Rotated Sorted Array",
-          "titleSlug": "find-minimum-in-rotated-sorted-array",
-          "timestamp": "1766074428"
-        },
-        {
-          "id": "1858440010",
-          "title": "Koko Eating Bananas",
-          "titleSlug": "koko-eating-bananas",
-          "timestamp": "1766012390"
-        },
-        {
-          "id": "1858168614",
-          "title": "Koko Eating Bananas",
-          "titleSlug": "koko-eating-bananas",
-          "timestamp": "1765986264"
-        },
-        {
-          "id": "1856389594",
-          "title": "Search a 2D Matrix",
-          "titleSlug": "search-a-2d-matrix",
-          "timestamp": "1765814478"
-        },
-        {
-          "id": "1856419141",
-          "title": "Binary Search",
-          "titleSlug": "binary-search",
-          "timestamp": "1765816297"
-        }
-      ]
+      "history": []
     }
   }
 }
