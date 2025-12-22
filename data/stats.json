@@ -2,10 +2,16 @@
   "week_start": "2025-12-22T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 9,
+      "total_solved": 10,
       "weekly_baseline": 5,
       "last_check_solved": 5,
       "history": [
+        {
+          "id": "1862180912",
+          "title": "Valid Palindrome II",
+          "titleSlug": "valid-palindrome-ii",
+          "timestamp": "1766388559"
+        },
         {
           "id": "1861996468",
           "title": "Reverse Linked List II",
