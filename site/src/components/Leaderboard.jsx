@@ -1,50 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
-const Leaderboard = () => {
-  const [data, setData] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    // Determine the data URL based on environment
-    // In dev, we can point to the raw file if configured, or import it.
-    // In prod (GitHub Pages), we usually fetch from the same repo.
-    // For simplicity in this dev environment, we assume the data is available at /data/stats.json relative to root,
-    // OR during dev, we might need to import it if it's inside src, but it's not.
-    // Vite dev server can serve files from root.
-    
-    // We will try to fetch from relative path assuming proper deployment structure.
-    // During local dev (npm run dev), passing ../data/stats.json might work if served.
-    // But Vite serves `site` as root. We should symlink or copy data, or configure logic.
-    // For now, let's try fetching from a known path, or just assume specific placement.
-    
-    // TRICK: In a real "GitHub Pages" repo, the site is often docs/ or root.
-    // If the site is in `site/` and data in `data/`, accessing `../data` from the built site is tricky unless
-    // we deploy the root of the repo.
-    // 
-    // SOLUTION: We will fetch from the raw GitHub URL if in PROD, or valid local path in DEV.
-    // But we don't know the raw URL yet.
-    // 
-    // BETTER SOLUTION: For this local demo, just try to import the JSON if possible, 
-    // but it's outside root.
-    // Let's rely on a fetch to a relative path and expect the deployment workflow to copy `data/stats.json` into `site/public/stats.json`.
-    // Yes, that's the robust way. Automation step will copy `data/stats.json` to `site/public/`.
-    
-    fetch('./stats.json')
-      .then(res => {
-        if (!res.ok) throw new Error("Failed to load stats");
-        return res.json();
-      })
-      .then(data => {
-        setData(data);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error(err);
-        setError(err.message);
-        setLoading(false);
-      });
-  }, []);
+const Leaderboard = ({ data, loading, error }) => {
 
   if (loading) return <div className="p-10 text-center text-gray-400">Loading stats...</div>;
   if (error) return <div className="p-10 text-center text-red-500">Error: {error}</div>;

@@ -129,6 +129,8 @@ def main():
         if u not in users:
             print(f"Removing {u} from stats (not in users.json)")
             del stats['users'][u]
+            
+    stats['last_updated'] = datetime.datetime.now(timezone.utc).isoformat()
 
     # 2. Update Stats
     for username in users:
