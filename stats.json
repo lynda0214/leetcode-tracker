@@ -39,10 +39,16 @@
       ]
     },
     "lynda0214": {
-      "total_solved": 96,
+      "total_solved": 97,
       "weekly_baseline": 94,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1863494674",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "timestamp": "1766508689"
+        },
         {
           "id": "1862536958",
           "title": "Two Sum II - Input Array Is Sorted",
@@ -133,5 +139,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-23T16:16:01.023358+00:00"
+  "last_updated": "2025-12-23T18:20:46.530765+00:00"
 }
