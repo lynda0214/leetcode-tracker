@@ -125,10 +125,22 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 13,
+      "total_solved": 15,
       "weekly_baseline": 7,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1865056716",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "timestamp": "1766672902"
+        },
+        {
+          "id": "1865089076",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "timestamp": "1766675476"
+        },
         {
           "id": "1864781692",
           "title": "Plus One",
@@ -187,5 +199,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-25T12:27:29.284457+00:00"
+  "last_updated": "2025-12-25T18:20:03.910218+00:00"
 }
