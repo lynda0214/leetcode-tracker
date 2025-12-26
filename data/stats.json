@@ -125,10 +125,16 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 15,
+      "total_solved": 16,
       "weekly_baseline": 7,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1865418226",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "timestamp": "1766715651"
+        },
         {
           "id": "1865056716",
           "title": "Add Binary",
@@ -199,5 +205,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-26T01:05:14.661887+00:00"
+  "last_updated": "2025-12-26T06:22:00.469023+00:00"
 }
