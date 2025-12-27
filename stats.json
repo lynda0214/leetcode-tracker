@@ -2,10 +2,46 @@
   "week_start": "2025-12-22T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 13,
+      "total_solved": 19,
       "weekly_baseline": 5,
       "last_check_solved": 5,
       "history": [
+        {
+          "id": "1866275681",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "timestamp": "1766805804"
+        },
+        {
+          "id": "1866279673",
+          "title": "Reverse Bits",
+          "titleSlug": "reverse-bits",
+          "timestamp": "1766806377"
+        },
+        {
+          "id": "1866284487",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "timestamp": "1766807084"
+        },
+        {
+          "id": "1866288373",
+          "title": "Power of Two",
+          "titleSlug": "power-of-two",
+          "timestamp": "1766807602"
+        },
+        {
+          "id": "1866295322",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "timestamp": "1766808477"
+        },
+        {
+          "id": "1866306872",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "timestamp": "1766809738"
+        },
         {
           "id": "1864017890",
           "title": "Find First Palindromic String in the Array",
@@ -217,5 +253,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-27T01:03:30.332287+00:00"
+  "last_updated": "2025-12-27T06:20:36.629712+00:00"
 }
