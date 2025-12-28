@@ -173,10 +173,16 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 21,
+      "total_solved": 22,
       "weekly_baseline": 7,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1867653591",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "timestamp": "1766934635"
+        },
         {
           "id": "1867334785",
           "title": "Same Tree",
@@ -270,10 +276,16 @@
       "history": []
     },
     "walter1618": {
-      "total_solved": 89,
+      "total_solved": 90,
       "weekly_baseline": 87,
       "last_check_solved": 86,
       "history": [
+        {
+          "id": "1867681868",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "timestamp": "1766936727"
+        },
         {
           "id": "1866775148",
           "title": "Best Time to Buy and Sell Stock",
@@ -289,5 +301,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-28T12:25:58.613547+00:00"
+  "last_updated": "2025-12-28T18:19:35.816891+00:00"
 }
