@@ -173,10 +173,22 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 17,
+      "total_solved": 19,
       "weekly_baseline": 7,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1867189225",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "timestamp": "1766893026"
+        },
+        {
+          "id": "1867248507",
+          "title": "Binary Tree Inorder Traversal",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "timestamp": "1766896994"
+        },
         {
           "id": "1865601155",
           "title": "Remove Duplicates from Sorted List",
@@ -265,5 +277,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-28T01:13:19.161930+00:00"
+  "last_updated": "2025-12-28T06:20:49.645953+00:00"
 }
