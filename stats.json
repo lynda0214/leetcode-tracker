@@ -2,10 +2,16 @@
   "week_start": "2025-12-29T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 24,
+      "total_solved": 25,
       "weekly_baseline": 19,
       "last_check_solved": 5,
       "history": [
+        {
+          "id": "1868144500",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "timestamp": "1766989445"
+        },
         {
           "id": "1868072903",
           "title": "Remove Element",
@@ -39,10 +45,23 @@
       ]
     },
     "lynda0214": {
-      "total_solved": 100,
-      "weekly_baseline": 100,
+      "total_solved": 101,
+      "weekly_baseline": 99,
       "last_check_solved": 91,
-      "history": []
+      "history": [
+        {
+          "id": "1868255529",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "timestamp": "1766998548"
+        },
+        {
+          "id": "1868278697",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "timestamp": "1767000428"
+        }
+      ]
     },
     "ssbomb": {
       "total_solved": 2,
@@ -81,5 +100,5 @@
       "history": []
     }
   },
-  "last_updated": "2025-12-29T06:24:25.769586+00:00"
+  "last_updated": "2025-12-29T12:29:20.465264+00:00"
 }
