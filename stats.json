@@ -45,10 +45,16 @@
       ]
     },
     "lynda0214": {
-      "total_solved": 101,
+      "total_solved": 102,
       "weekly_baseline": 99,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1868452253",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "timestamp": "1767015285"
+        },
         {
           "id": "1868255529",
           "title": "Length of Last Word",
@@ -82,10 +88,17 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 22,
+      "total_solved": 23,
       "weekly_baseline": 22,
       "last_check_solved": 1,
-      "history": []
+      "history": [
+        {
+          "id": "1868525267",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "timestamp": "1767020469"
+        }
+      ]
     },
     "papple23g": {
       "total_solved": 113,
@@ -100,5 +113,5 @@
       "history": []
     }
   },
-  "last_updated": "2025-12-29T12:29:20.465264+00:00"
+  "last_updated": "2025-12-29T18:21:08.899535+00:00"
 }
