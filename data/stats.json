@@ -2,10 +2,41 @@
   "week_start": "2025-12-29T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 19,
+      "total_solved": 24,
       "weekly_baseline": 19,
       "last_check_solved": 5,
-      "history": []
+      "history": [
+        {
+          "id": "1868072903",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "timestamp": "1766983612"
+        },
+        {
+          "id": "1868080686",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "timestamp": "1766984279"
+        },
+        {
+          "id": "1868094942",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "timestamp": "1766985520"
+        },
+        {
+          "id": "1868115662",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "timestamp": "1766987223"
+        },
+        {
+          "id": "1868118488",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "timestamp": "1766987433"
+        }
+      ]
     },
     "lynda0214": {
       "total_solved": 100,
@@ -50,5 +81,5 @@
       "history": []
     }
   },
-  "last_updated": "2025-12-29T01:10:55.855805+00:00"
+  "last_updated": "2025-12-29T06:24:25.769586+00:00"
 }
