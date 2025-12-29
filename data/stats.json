@@ -1,164 +1,23 @@
 {
-  "week_start": "2025-12-22T00:00:00+00:00",
+  "week_start": "2025-12-29T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 19,
-      "weekly_baseline": 5,
+      "weekly_baseline": 19,
       "last_check_solved": 5,
-      "history": [
-        {
-          "id": "1866275681",
-          "title": "Reverse Integer",
-          "titleSlug": "reverse-integer",
-          "timestamp": "1766805804"
-        },
-        {
-          "id": "1866279673",
-          "title": "Reverse Bits",
-          "titleSlug": "reverse-bits",
-          "timestamp": "1766806377"
-        },
-        {
-          "id": "1866284487",
-          "title": "Number of 1 Bits",
-          "titleSlug": "number-of-1-bits",
-          "timestamp": "1766807084"
-        },
-        {
-          "id": "1866288373",
-          "title": "Power of Two",
-          "titleSlug": "power-of-two",
-          "timestamp": "1766807602"
-        },
-        {
-          "id": "1866295322",
-          "title": "Longest Common Prefix",
-          "titleSlug": "longest-common-prefix",
-          "timestamp": "1766808477"
-        },
-        {
-          "id": "1866306872",
-          "title": "Merge Two Sorted Lists",
-          "titleSlug": "merge-two-sorted-lists",
-          "timestamp": "1766809738"
-        },
-        {
-          "id": "1864017890",
-          "title": "Find First Palindromic String in the Array",
-          "titleSlug": "find-first-palindromic-string-in-the-array",
-          "timestamp": "1766565149"
-        },
-        {
-          "id": "1864046848",
-          "title": "Valid Parentheses",
-          "titleSlug": "valid-parentheses",
-          "timestamp": "1766567585"
-        },
-        {
-          "id": "1864070752",
-          "title": "Roman to Integer",
-          "titleSlug": "roman-to-integer",
-          "timestamp": "1766569583"
-        },
-        {
-          "id": "1862180912",
-          "title": "Valid Palindrome II",
-          "titleSlug": "valid-palindrome-ii",
-          "timestamp": "1766388559"
-        },
-        {
-          "id": "1861996468",
-          "title": "Reverse Linked List II",
-          "titleSlug": "reverse-linked-list-ii",
-          "timestamp": "1766371677"
-        },
-        {
-          "id": "1862024229",
-          "title": "Palindrome Linked List",
-          "titleSlug": "palindrome-linked-list",
-          "timestamp": "1766375541"
-        },
-        {
-          "id": "1862048675",
-          "title": "Palindrome Number",
-          "titleSlug": "palindrome-number",
-          "timestamp": "1766378145"
-        },
-        {
-          "id": "1862060349",
-          "title": "Valid Palindrome",
-          "titleSlug": "valid-palindrome",
-          "timestamp": "1766379205"
-        }
-      ]
+      "history": []
     },
     "lynda0214": {
       "total_solved": 100,
-      "weekly_baseline": 92,
+      "weekly_baseline": 100,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1866551603",
-          "title": "Daily Temperatures",
-          "titleSlug": "daily-temperatures",
-          "timestamp": "1766831290"
-        },
-        {
-          "id": "1865667198",
-          "title": "Evaluate Reverse Polish Notation",
-          "titleSlug": "evaluate-reverse-polish-notation",
-          "timestamp": "1766740090"
-        },
-        {
-          "id": "1864870743",
-          "title": "Min Stack",
-          "titleSlug": "min-stack",
-          "timestamp": "1766656465"
-        },
-        {
-          "id": "1864332179",
-          "title": "Container With Most Water",
-          "titleSlug": "container-with-most-water",
-          "timestamp": "1766593324"
-        },
-        {
-          "id": "1864395996",
-          "title": "Valid Parentheses",
-          "titleSlug": "valid-parentheses",
-          "timestamp": "1766598081"
-        },
-        {
-          "id": "1863494674",
-          "title": "3Sum",
-          "titleSlug": "3sum",
-          "timestamp": "1766508689"
-        },
-        {
-          "id": "1862536958",
-          "title": "Two Sum II - Input Array Is Sorted",
-          "titleSlug": "two-sum-ii-input-array-is-sorted",
-          "timestamp": "1766418430"
-        },
-        {
-          "id": "1861979358",
-          "title": "Valid Palindrome",
-          "titleSlug": "valid-palindrome",
-          "timestamp": "1766368879"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 2,
-      "weekly_baseline": 1,
+      "weekly_baseline": 2,
       "last_check_solved": 0,
-      "history": [
-        {
-          "id": "1862026441",
-          "title": "Valid Palindrome",
-          "titleSlug": "valid-palindrome",
-          "timestamp": "1766375805"
-        }
-      ]
+      "history": []
     },
     "johnwang00": {
       "total_solved": 0,
@@ -174,132 +33,22 @@
     },
     "ringo_wang": {
       "total_solved": 22,
-      "weekly_baseline": 7,
+      "weekly_baseline": 22,
       "last_check_solved": 1,
-      "history": [
-        {
-          "id": "1867653591",
-          "title": "Maximum Depth of Binary Tree",
-          "titleSlug": "maximum-depth-of-binary-tree",
-          "timestamp": "1766934635"
-        },
-        {
-          "id": "1867334785",
-          "title": "Same Tree",
-          "titleSlug": "same-tree",
-          "timestamp": "1766904434"
-        },
-        {
-          "id": "1867380433",
-          "title": "Symmetric Tree",
-          "titleSlug": "symmetric-tree",
-          "timestamp": "1766908321"
-        },
-        {
-          "id": "1867189225",
-          "title": "Merge Sorted Array",
-          "titleSlug": "merge-sorted-array",
-          "timestamp": "1766893026"
-        },
-        {
-          "id": "1867248507",
-          "title": "Binary Tree Inorder Traversal",
-          "titleSlug": "binary-tree-inorder-traversal",
-          "timestamp": "1766896994"
-        },
-        {
-          "id": "1865601155",
-          "title": "Remove Duplicates from Sorted List",
-          "titleSlug": "remove-duplicates-from-sorted-list",
-          "timestamp": "1766734051"
-        },
-        {
-          "id": "1865418226",
-          "title": "Climbing Stairs",
-          "titleSlug": "climbing-stairs",
-          "timestamp": "1766715651"
-        },
-        {
-          "id": "1865056716",
-          "title": "Add Binary",
-          "titleSlug": "add-binary",
-          "timestamp": "1766672902"
-        },
-        {
-          "id": "1865089076",
-          "title": "Sqrt(x)",
-          "titleSlug": "sqrtx",
-          "timestamp": "1766675476"
-        },
-        {
-          "id": "1864781692",
-          "title": "Plus One",
-          "titleSlug": "plus-one",
-          "timestamp": "1766648259"
-        },
-        {
-          "id": "1863962942",
-          "title": "Two Sum",
-          "titleSlug": "two-sum",
-          "timestamp": "1766560457"
-        },
-        {
-          "id": "1863420206",
-          "title": "Length of Last Word",
-          "titleSlug": "length-of-last-word",
-          "timestamp": "1766503502"
-        },
-        {
-          "id": "1862483324",
-          "title": "Remove Element",
-          "titleSlug": "remove-element",
-          "timestamp": "1766414534"
-        },
-        {
-          "id": "1862515103",
-          "title": "Find the Index of the First Occurrence in a String",
-          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
-          "timestamp": "1766416889"
-        },
-        {
-          "id": "1862529960",
-          "title": "Search Insert Position",
-          "titleSlug": "search-insert-position",
-          "timestamp": "1766417942"
-        }
-      ]
+      "history": []
     },
     "papple23g": {
       "total_solved": 113,
-      "weekly_baseline": 110,
+      "weekly_baseline": 113,
       "last_check_solved": 106,
       "history": []
     },
     "walter1618": {
       "total_solved": 90,
-      "weekly_baseline": 87,
+      "weekly_baseline": 90,
       "last_check_solved": 86,
-      "history": [
-        {
-          "id": "1867681868",
-          "title": "Longest Substring Without Repeating Characters",
-          "titleSlug": "longest-substring-without-repeating-characters",
-          "timestamp": "1766936727"
-        },
-        {
-          "id": "1866775148",
-          "title": "Best Time to Buy and Sell Stock",
-          "titleSlug": "best-time-to-buy-and-sell-stock",
-          "timestamp": "1766850937"
-        },
-        {
-          "id": "1862520060",
-          "title": "Search in Rotated Sorted Array",
-          "titleSlug": "search-in-rotated-sorted-array",
-          "timestamp": "1766417245"
-        }
-      ]
+      "history": []
     }
   },
-  "last_updated": "2025-12-28T18:19:35.816891+00:00"
+  "last_updated": "2025-12-29T01:10:55.855805+00:00"
 }
