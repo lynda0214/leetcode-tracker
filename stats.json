@@ -101,7 +101,7 @@
       ]
     },
     "papple23g": {
-      "total_solved": 113,
+      "total_solved": 114,
       "weekly_baseline": 113,
       "last_check_solved": 106,
       "history": []
@@ -112,6 +112,12 @@
       "last_check_solved": 86,
       "history": [
         {
+          "id": "1870021727",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "timestamp": "1767163083"
+        },
+        {
           "id": "1869976720",
           "title": "Longest Repeating Character Replacement",
           "titleSlug": "longest-repeating-character-replacement",
@@ -120,5 +126,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-31T06:22:18.544319+00:00"
+  "last_updated": "2025-12-31T12:27:52.066967+00:00"
 }
