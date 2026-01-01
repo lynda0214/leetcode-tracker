@@ -88,10 +88,22 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 23,
+      "total_solved": 25,
       "weekly_baseline": 22,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1871103479",
+          "title": "Balanced Binary Tree",
+          "titleSlug": "balanced-binary-tree",
+          "timestamp": "1767279382"
+        },
+        {
+          "id": "1871128657",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "timestamp": "1767281146"
+        },
         {
           "id": "1868525267",
           "title": "Convert Sorted Array to Binary Search Tree",
@@ -126,5 +138,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-01T12:28:08.902709+00:00"
+  "last_updated": "2026-01-01T18:20:26.449325+00:00"
 }
