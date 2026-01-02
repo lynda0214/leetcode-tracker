@@ -88,10 +88,16 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 25,
+      "total_solved": 26,
       "weekly_baseline": 22,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1871506539",
+          "title": "Path Sum",
+          "titleSlug": "path-sum",
+          "timestamp": "1767318496"
+        },
         {
           "id": "1871103479",
           "title": "Balanced Binary Tree",
@@ -138,5 +144,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-02T01:07:01.743793+00:00"
+  "last_updated": "2026-01-02T06:22:14.664026+00:00"
 }
