@@ -94,10 +94,16 @@
       "history": []
     },
     "ringo_wang": {
-      "total_solved": 26,
+      "total_solved": 27,
       "weekly_baseline": 22,
       "last_check_solved": 1,
       "history": [
+        {
+          "id": "1873132440",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "timestamp": "1767449516"
+        },
         {
           "id": "1871506539",
           "title": "Path Sum",
@@ -150,5 +156,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-03T12:25:27.399646+00:00"
+  "last_updated": "2026-01-03T18:18:53.477569+00:00"
 }
