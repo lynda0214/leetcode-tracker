@@ -2,16 +2,36 @@
   "week_start": "2026-01-05T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 25,
+      "total_solved": 27,
       "weekly_baseline": 25,
       "last_check_solved": 5,
-      "history": []
+      "history": [
+        {
+          "id": "1875081273",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "timestamp": "1767602732"
+        },
+        {
+          "id": "1875100527",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "timestamp": "1767604112"
+        }
+      ]
     },
     "lynda0214": {
-      "total_solved": 103,
+      "total_solved": 104,
       "weekly_baseline": 103,
       "last_check_solved": 91,
-      "history": []
+      "history": [
+        {
+          "id": "1875065058",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "timestamp": "1767601474"
+        }
+      ]
     },
     "ssbomb": {
       "total_solved": 2,
@@ -50,5 +70,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-05T06:27:48.904125+00:00"
+  "last_updated": "2026-01-05T12:30:53.907345+00:00"
 }
