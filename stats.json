@@ -1,79 +1,17 @@
 {
-  "week_start": "2025-12-29T00:00:00+00:00",
+  "week_start": "2026-01-05T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 25,
-      "weekly_baseline": 19,
+      "weekly_baseline": 25,
       "last_check_solved": 5,
-      "history": [
-        {
-          "id": "1868144500",
-          "title": "Plus One",
-          "titleSlug": "plus-one",
-          "timestamp": "1766989445"
-        },
-        {
-          "id": "1868072903",
-          "title": "Remove Element",
-          "titleSlug": "remove-element",
-          "timestamp": "1766983612"
-        },
-        {
-          "id": "1868080686",
-          "title": "Remove Duplicates from Sorted Array",
-          "titleSlug": "remove-duplicates-from-sorted-array",
-          "timestamp": "1766984279"
-        },
-        {
-          "id": "1868094942",
-          "title": "Find the Index of the First Occurrence in a String",
-          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
-          "timestamp": "1766985520"
-        },
-        {
-          "id": "1868115662",
-          "title": "Search Insert Position",
-          "titleSlug": "search-insert-position",
-          "timestamp": "1766987223"
-        },
-        {
-          "id": "1868118488",
-          "title": "Length of Last Word",
-          "titleSlug": "length-of-last-word",
-          "timestamp": "1766987433"
-        }
-      ]
+      "history": []
     },
     "lynda0214": {
       "total_solved": 103,
-      "weekly_baseline": 99,
+      "weekly_baseline": 103,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1871894623",
-          "title": "Koko Eating Bananas",
-          "titleSlug": "koko-eating-bananas",
-          "timestamp": "1767348210"
-        },
-        {
-          "id": "1868452253",
-          "title": "Search a 2D Matrix",
-          "titleSlug": "search-a-2d-matrix",
-          "timestamp": "1767015285"
-        },
-        {
-          "id": "1868255529",
-          "title": "Length of Last Word",
-          "titleSlug": "length-of-last-word",
-          "timestamp": "1766998548"
-        },
-        {
-          "id": "1868278697",
-          "title": "Binary Search",
-          "titleSlug": "binary-search",
-          "timestamp": "1767000428"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 2,
@@ -95,66 +33,22 @@
     },
     "ringo_wang": {
       "total_solved": 27,
-      "weekly_baseline": 22,
+      "weekly_baseline": 27,
       "last_check_solved": 1,
-      "history": [
-        {
-          "id": "1873132440",
-          "title": "Pascal's Triangle",
-          "titleSlug": "pascals-triangle",
-          "timestamp": "1767449516"
-        },
-        {
-          "id": "1871506539",
-          "title": "Path Sum",
-          "titleSlug": "path-sum",
-          "timestamp": "1767318496"
-        },
-        {
-          "id": "1871103479",
-          "title": "Balanced Binary Tree",
-          "titleSlug": "balanced-binary-tree",
-          "timestamp": "1767279382"
-        },
-        {
-          "id": "1871128657",
-          "title": "Minimum Depth of Binary Tree",
-          "titleSlug": "minimum-depth-of-binary-tree",
-          "timestamp": "1767281146"
-        },
-        {
-          "id": "1868525267",
-          "title": "Convert Sorted Array to Binary Search Tree",
-          "titleSlug": "convert-sorted-array-to-binary-search-tree",
-          "timestamp": "1767020469"
-        }
-      ]
+      "history": []
     },
     "papple23g": {
       "total_solved": 119,
-      "weekly_baseline": 113,
+      "weekly_baseline": 119,
       "last_check_solved": 106,
       "history": []
     },
     "walter1618": {
       "total_solved": 91,
-      "weekly_baseline": 90,
+      "weekly_baseline": 91,
       "last_check_solved": 86,
-      "history": [
-        {
-          "id": "1870021727",
-          "title": "Longest Repeating Character Replacement",
-          "titleSlug": "longest-repeating-character-replacement",
-          "timestamp": "1767163083"
-        },
-        {
-          "id": "1869976720",
-          "title": "Longest Repeating Character Replacement",
-          "titleSlug": "longest-repeating-character-replacement",
-          "timestamp": "1767159704"
-        }
-      ]
+      "history": []
     }
   },
-  "last_updated": "2026-01-04T18:19:10.961303+00:00"
+  "last_updated": "2026-01-05T01:12:55.611741+00:00"
 }
