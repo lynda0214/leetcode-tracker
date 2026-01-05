@@ -21,10 +21,16 @@
       ]
     },
     "lynda0214": {
-      "total_solved": 104,
+      "total_solved": 105,
       "weekly_baseline": 103,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1875286320",
+          "title": "Search in Rotated Sorted Array",
+          "titleSlug": "search-in-rotated-sorted-array",
+          "timestamp": "1767617959"
+        },
         {
           "id": "1875065058",
           "title": "Find Minimum in Rotated Sorted Array",
@@ -70,5 +76,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-05T12:30:53.907345+00:00"
+  "last_updated": "2026-01-05T18:22:03.452249+00:00"
 }
