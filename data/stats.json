@@ -21,10 +21,16 @@
       ]
     },
     "lynda0214": {
-      "total_solved": 105,
+      "total_solved": 106,
       "weekly_baseline": 103,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1877566602",
+          "title": "Time Based Key-Value Store",
+          "titleSlug": "time-based-key-value-store",
+          "timestamp": "1767789004"
+        },
         {
           "id": "1875286320",
           "title": "Search in Rotated Sorted Array",
@@ -76,5 +82,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-07T06:23:09.376690+00:00"
+  "last_updated": "2026-01-07T12:30:11.492054+00:00"
 }
