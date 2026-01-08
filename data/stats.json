@@ -70,10 +70,23 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 120,
+      "total_solved": 121,
       "weekly_baseline": 119,
       "last_check_solved": 106,
-      "history": []
+      "history": [
+        {
+          "id": "1876803765",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "timestamp": "1767723116"
+        },
+        {
+          "id": "1877991740",
+          "title": "Car Fleet",
+          "titleSlug": "car-fleet",
+          "timestamp": "1767811902"
+        }
+      ]
     },
     "walter1618": {
       "total_solved": 91,
@@ -82,5 +95,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-07T18:21:55.848936+00:00"
+  "last_updated": "2026-01-08T01:07:03.753691+00:00"
 }
