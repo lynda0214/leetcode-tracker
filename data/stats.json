@@ -71,9 +71,15 @@
     },
     "papple23g": {
       "total_solved": 121,
-      "weekly_baseline": 119,
+      "weekly_baseline": 118,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1881930172",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "timestamp": "1768146356"
+        },
         {
           "id": "1876803765",
           "title": "Container With Most Water",
@@ -95,5 +101,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-11T12:26:45.456341+00:00"
+  "last_updated": "2026-01-11T18:19:35.732159+00:00"
 }
