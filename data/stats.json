@@ -1,49 +1,17 @@
 {
-  "week_start": "2026-01-05T00:00:00+00:00",
+  "week_start": "2026-01-12T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
-      "weekly_baseline": 25,
+      "weekly_baseline": 27,
       "last_check_solved": 5,
-      "history": [
-        {
-          "id": "1875081273",
-          "title": "Add Binary",
-          "titleSlug": "add-binary",
-          "timestamp": "1767602732"
-        },
-        {
-          "id": "1875100527",
-          "title": "Sqrt(x)",
-          "titleSlug": "sqrtx",
-          "timestamp": "1767604112"
-        }
-      ]
+      "history": []
     },
     "lynda0214": {
       "total_solved": 106,
-      "weekly_baseline": 103,
+      "weekly_baseline": 106,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1877566602",
-          "title": "Time Based Key-Value Store",
-          "titleSlug": "time-based-key-value-store",
-          "timestamp": "1767789004"
-        },
-        {
-          "id": "1875286320",
-          "title": "Search in Rotated Sorted Array",
-          "titleSlug": "search-in-rotated-sorted-array",
-          "timestamp": "1767617959"
-        },
-        {
-          "id": "1875065058",
-          "title": "Find Minimum in Rotated Sorted Array",
-          "titleSlug": "find-minimum-in-rotated-sorted-array",
-          "timestamp": "1767601474"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 2,
@@ -71,28 +39,9 @@
     },
     "papple23g": {
       "total_solved": 121,
-      "weekly_baseline": 118,
+      "weekly_baseline": 121,
       "last_check_solved": 106,
-      "history": [
-        {
-          "id": "1881930172",
-          "title": "Two Sum II - Input Array Is Sorted",
-          "titleSlug": "two-sum-ii-input-array-is-sorted",
-          "timestamp": "1768146356"
-        },
-        {
-          "id": "1876803765",
-          "title": "Container With Most Water",
-          "titleSlug": "container-with-most-water",
-          "timestamp": "1767723116"
-        },
-        {
-          "id": "1877991740",
-          "title": "Car Fleet",
-          "titleSlug": "car-fleet",
-          "timestamp": "1767811902"
-        }
-      ]
+      "history": []
     },
     "walter1618": {
       "total_solved": 91,
@@ -101,5 +50,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-11T18:19:35.732159+00:00"
+  "last_updated": "2026-01-12T01:10:29.851978+00:00"
 }
