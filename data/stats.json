@@ -38,10 +38,28 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 122,
+      "total_solved": 124,
       "weekly_baseline": 121,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1887570239",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "timestamp": "1768640742"
+        },
+        {
+          "id": "1887582715",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "timestamp": "1768641755"
+        },
+        {
+          "id": "1887597191",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "timestamp": "1768642905"
+        },
         {
           "id": "1883460765",
           "title": "3Sum",
@@ -57,5 +75,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-17T06:20:33.522813+00:00"
+  "last_updated": "2026-01-17T12:25:22.609370+00:00"
 }
