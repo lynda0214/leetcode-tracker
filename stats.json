@@ -38,10 +38,16 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 124,
+      "total_solved": 125,
       "weekly_baseline": 121,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1889164137",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "timestamp": "1768759830"
+        },
         {
           "id": "1887570239",
           "title": "3Sum",
@@ -75,5 +81,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-01-18T12:25:49.653926+00:00"
+  "last_updated": "2026-01-18T18:18:50.177916+00:00"
 }
