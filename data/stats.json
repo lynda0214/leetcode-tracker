@@ -45,10 +45,17 @@
     },
     "walter1618": {
       "total_solved": 91,
-      "weekly_baseline": 91,
+      "weekly_baseline": 90,
       "last_check_solved": 86,
-      "history": []
+      "history": [
+        {
+          "id": "1890109588",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "timestamp": "1768841563"
+        }
+      ]
     }
   },
-  "last_updated": "2026-01-19T12:32:53.289967+00:00"
+  "last_updated": "2026-01-19T18:21:24.361629+00:00"
 }
