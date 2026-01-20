@@ -38,10 +38,23 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 126,
+      "total_solved": 127,
       "weekly_baseline": 125,
       "last_check_solved": 106,
-      "history": []
+      "history": [
+        {
+          "id": "1891295187",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "timestamp": "1768929423"
+        },
+        {
+          "id": "1891336888",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "timestamp": "1768931212"
+        }
+      ]
     },
     "walter1618": {
       "total_solved": 91,
@@ -57,5 +70,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-20T12:32:44.311660+00:00"
+  "last_updated": "2026-01-20T18:25:24.999417+00:00"
 }
