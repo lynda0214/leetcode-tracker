@@ -45,10 +45,22 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 127,
+      "total_solved": 128,
       "weekly_baseline": 125,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1895513216",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "timestamp": "1769271755"
+        },
+        {
+          "id": "1895539555",
+          "title": "Remove Nth Node From End of List",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "timestamp": "1769273266"
+        },
         {
           "id": "1891295187",
           "title": "Reverse Linked List",
@@ -77,5 +89,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-24T12:26:22.989936+00:00"
+  "last_updated": "2026-01-24T18:20:04.337637+00:00"
 }
