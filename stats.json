@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-01-19T00:00:00+00:00",
+  "week_start": "2026-01-26T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -9,16 +9,9 @@
     },
     "lynda0214": {
       "total_solved": 106,
-      "weekly_baseline": 105,
+      "weekly_baseline": 106,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1894234835",
-          "title": "Best Time to Buy and Sell Stock",
-          "titleSlug": "best-time-to-buy-and-sell-stock",
-          "timestamp": "1769164934"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 2,
@@ -46,48 +39,16 @@
     },
     "papple23g": {
       "total_solved": 128,
-      "weekly_baseline": 125,
+      "weekly_baseline": 128,
       "last_check_solved": 106,
-      "history": [
-        {
-          "id": "1895513216",
-          "title": "Reorder List",
-          "titleSlug": "reorder-list",
-          "timestamp": "1769271755"
-        },
-        {
-          "id": "1895539555",
-          "title": "Remove Nth Node From End of List",
-          "titleSlug": "remove-nth-node-from-end-of-list",
-          "timestamp": "1769273266"
-        },
-        {
-          "id": "1891295187",
-          "title": "Reverse Linked List",
-          "titleSlug": "reverse-linked-list",
-          "timestamp": "1768929423"
-        },
-        {
-          "id": "1891336888",
-          "title": "Reorder List",
-          "titleSlug": "reorder-list",
-          "timestamp": "1768931212"
-        }
-      ]
+      "history": []
     },
     "walter1618": {
       "total_solved": 91,
-      "weekly_baseline": 90,
+      "weekly_baseline": 91,
       "last_check_solved": 86,
-      "history": [
-        {
-          "id": "1890109588",
-          "title": "Longest Repeating Character Replacement",
-          "titleSlug": "longest-repeating-character-replacement",
-          "timestamp": "1768841563"
-        }
-      ]
+      "history": []
     }
   },
-  "last_updated": "2026-01-25T18:19:57.665992+00:00"
+  "last_updated": "2026-01-26T01:13:36.653384+00:00"
 }
