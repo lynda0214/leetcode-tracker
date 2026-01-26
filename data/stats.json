@@ -44,11 +44,24 @@
       "history": []
     },
     "walter1618": {
-      "total_solved": 91,
+      "total_solved": 93,
       "weekly_baseline": 91,
       "last_check_solved": 86,
-      "history": []
+      "history": [
+        {
+          "id": "1897812457",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "timestamp": "1769444427"
+        },
+        {
+          "id": "1897853780",
+          "title": "Find All Anagrams in a String",
+          "titleSlug": "find-all-anagrams-in-a-string",
+          "timestamp": "1769446522"
+        }
+      ]
     }
   },
-  "last_updated": "2026-01-26T12:31:19.500688+00:00"
+  "last_updated": "2026-01-26T18:24:39.395220+00:00"
 }
