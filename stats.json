@@ -44,10 +44,22 @@
       "history": []
     },
     "walter1618": {
-      "total_solved": 93,
+      "total_solved": 95,
       "weekly_baseline": 91,
       "last_check_solved": 86,
       "history": [
+        {
+          "id": "1899932243",
+          "title": "Invert Binary Tree",
+          "titleSlug": "invert-binary-tree",
+          "timestamp": "1769614687"
+        },
+        {
+          "id": "1900011303",
+          "title": "Reverse Odd Levels of Binary Tree",
+          "titleSlug": "reverse-odd-levels-of-binary-tree",
+          "timestamp": "1769618517"
+        },
         {
           "id": "1897812457",
           "title": "Permutation in String",
@@ -63,5 +75,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-28T12:32:35.625783+00:00"
+  "last_updated": "2026-01-28T18:27:49.738863+00:00"
 }
