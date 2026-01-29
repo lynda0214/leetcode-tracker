@@ -38,10 +38,23 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 128,
+      "total_solved": 130,
       "weekly_baseline": 128,
       "last_check_solved": 106,
-      "history": []
+      "history": [
+        {
+          "id": "1900788428",
+          "title": "Koko Eating Bananas",
+          "titleSlug": "koko-eating-bananas",
+          "timestamp": "1769681366"
+        },
+        {
+          "id": "1900812366",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "timestamp": "1769683097"
+        }
+      ]
     },
     "walter1618": {
       "total_solved": 95,
@@ -75,5 +88,5 @@
       ]
     }
   },
-  "last_updated": "2026-01-29T06:37:00.405959+00:00"
+  "last_updated": "2026-01-29T12:38:18.657873+00:00"
 }
