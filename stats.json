@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-01-26T00:00:00+00:00",
+  "week_start": "2026-02-02T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -39,54 +39,16 @@
     },
     "papple23g": {
       "total_solved": 130,
-      "weekly_baseline": 128,
+      "weekly_baseline": 130,
       "last_check_solved": 106,
-      "history": [
-        {
-          "id": "1900788428",
-          "title": "Koko Eating Bananas",
-          "titleSlug": "koko-eating-bananas",
-          "timestamp": "1769681366"
-        },
-        {
-          "id": "1900812366",
-          "title": "Find Minimum in Rotated Sorted Array",
-          "titleSlug": "find-minimum-in-rotated-sorted-array",
-          "timestamp": "1769683097"
-        }
-      ]
+      "history": []
     },
     "walter1618": {
       "total_solved": 95,
-      "weekly_baseline": 91,
+      "weekly_baseline": 95,
       "last_check_solved": 86,
-      "history": [
-        {
-          "id": "1899932243",
-          "title": "Invert Binary Tree",
-          "titleSlug": "invert-binary-tree",
-          "timestamp": "1769614687"
-        },
-        {
-          "id": "1900011303",
-          "title": "Reverse Odd Levels of Binary Tree",
-          "titleSlug": "reverse-odd-levels-of-binary-tree",
-          "timestamp": "1769618517"
-        },
-        {
-          "id": "1897812457",
-          "title": "Permutation in String",
-          "titleSlug": "permutation-in-string",
-          "timestamp": "1769444427"
-        },
-        {
-          "id": "1897853780",
-          "title": "Find All Anagrams in a String",
-          "titleSlug": "find-all-anagrams-in-a-string",
-          "timestamp": "1769446522"
-        }
-      ]
+      "history": []
     }
   },
-  "last_updated": "2026-02-01T18:23:42.652118+00:00"
+  "last_updated": "2026-02-02T01:22:08.457221+00:00"
 }
