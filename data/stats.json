@@ -8,10 +8,23 @@
       "history": []
     },
     "lynda0214": {
-      "total_solved": 106,
+      "total_solved": 108,
       "weekly_baseline": 106,
       "last_check_solved": 91,
-      "history": []
+      "history": [
+        {
+          "id": "1906444616",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "timestamp": "1770106629"
+        },
+        {
+          "id": "1906507763",
+          "title": "Longest Repeating Character Replacement",
+          "titleSlug": "longest-repeating-character-replacement",
+          "timestamp": "1770110536"
+        }
+      ]
     },
     "ssbomb": {
       "total_solved": 2,
@@ -50,5 +63,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-03T06:39:54.666508+00:00"
+  "last_updated": "2026-02-03T12:40:05.949719+00:00"
 }
