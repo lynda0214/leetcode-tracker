@@ -8,10 +8,16 @@
       "history": []
     },
     "lynda0214": {
-      "total_solved": 108,
+      "total_solved": 109,
       "weekly_baseline": 106,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1906850970",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "timestamp": "1770131572"
+        },
         {
           "id": "1906444616",
           "title": "Longest Substring Without Repeating Characters",
@@ -63,5 +69,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-03T12:40:05.949719+00:00"
+  "last_updated": "2026-02-03T18:44:36.406982+00:00"
 }
