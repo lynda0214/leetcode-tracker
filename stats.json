@@ -9,9 +9,15 @@
     },
     "lynda0214": {
       "total_solved": 109,
-      "weekly_baseline": 106,
+      "weekly_baseline": 105,
       "last_check_solved": 91,
       "history": [
+        {
+          "id": "1907694715",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "timestamp": "1770193536"
+        },
         {
           "id": "1906850970",
           "title": "Permutation in String",
@@ -69,5 +75,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-04T06:40:29.405269+00:00"
+  "last_updated": "2026-02-04T12:40:14.319569+00:00"
 }
