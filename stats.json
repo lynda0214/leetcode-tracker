@@ -64,9 +64,15 @@
     },
     "papple23g": {
       "total_solved": 132,
-      "weekly_baseline": 130,
+      "weekly_baseline": 129,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1909513842",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "timestamp": "1770317920"
+        },
         {
           "id": "1909467625",
           "title": "Search in Rotated Sorted Array",
@@ -88,5 +94,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-05T18:38:35.126836+00:00"
+  "last_updated": "2026-02-06T01:18:13.074671+00:00"
 }
