@@ -63,10 +63,28 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 132,
+      "total_solved": 135,
       "weekly_baseline": 129,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1910507881",
+          "title": "Permutation in String",
+          "titleSlug": "permutation-in-string",
+          "timestamp": "1770397970"
+        },
+        {
+          "id": "1910567637",
+          "title": "Invert Binary Tree",
+          "titleSlug": "invert-binary-tree",
+          "timestamp": "1770400942"
+        },
+        {
+          "id": "1910586070",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "timestamp": "1770401876"
+        },
         {
           "id": "1909513842",
           "title": "Longest Substring Without Repeating Characters",
@@ -94,5 +112,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-06T12:40:16.714460+00:00"
+  "last_updated": "2026-02-06T18:37:36.889689+00:00"
 }
