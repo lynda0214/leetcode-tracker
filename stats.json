@@ -63,10 +63,22 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 139,
-      "weekly_baseline": 129,
+      "total_solved": 140,
+      "weekly_baseline": 128,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1912152519",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "timestamp": "1770533622"
+        },
+        {
+          "id": "1912291432",
+          "title": "Copy List with Random Pointer",
+          "titleSlug": "copy-list-with-random-pointer",
+          "timestamp": "1770544589"
+        },
         {
           "id": "1911645135",
           "title": "Diameter of Binary Tree",
@@ -136,5 +148,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-08T06:39:54.241438+00:00"
+  "last_updated": "2026-02-08T12:31:40.041733+00:00"
 }
