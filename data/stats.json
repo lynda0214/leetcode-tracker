@@ -63,10 +63,34 @@
       "history": []
     },
     "papple23g": {
-      "total_solved": 135,
+      "total_solved": 139,
       "weekly_baseline": 129,
       "last_check_solved": 106,
       "history": [
+        {
+          "id": "1911645135",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "timestamp": "1770492773"
+        },
+        {
+          "id": "1911656233",
+          "title": "Balanced Binary Tree",
+          "titleSlug": "balanced-binary-tree",
+          "timestamp": "1770493773"
+        },
+        {
+          "id": "1911673438",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
+          "timestamp": "1770495455"
+        },
+        {
+          "id": "1911682409",
+          "title": "Subtree of Another Tree",
+          "titleSlug": "subtree-of-another-tree",
+          "timestamp": "1770496409"
+        },
         {
           "id": "1910507881",
           "title": "Permutation in String",
@@ -112,5 +136,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-07T18:23:56.260032+00:00"
+  "last_updated": "2026-02-08T01:54:32.039255+00:00"
 }
