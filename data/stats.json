@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-02-02T00:00:00+00:00",
+  "week_start": "2026-02-09T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -9,34 +9,9 @@
     },
     "lynda0214": {
       "total_solved": 109,
-      "weekly_baseline": 105,
+      "weekly_baseline": 109,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1907694715",
-          "title": "Reverse Linked List",
-          "titleSlug": "reverse-linked-list",
-          "timestamp": "1770193536"
-        },
-        {
-          "id": "1906850970",
-          "title": "Permutation in String",
-          "titleSlug": "permutation-in-string",
-          "timestamp": "1770131572"
-        },
-        {
-          "id": "1906444616",
-          "title": "Longest Substring Without Repeating Characters",
-          "titleSlug": "longest-substring-without-repeating-characters",
-          "timestamp": "1770106629"
-        },
-        {
-          "id": "1906507763",
-          "title": "Longest Repeating Character Replacement",
-          "titleSlug": "longest-repeating-character-replacement",
-          "timestamp": "1770110536"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 2,
@@ -64,82 +39,9 @@
     },
     "papple23g": {
       "total_solved": 140,
-      "weekly_baseline": 128,
+      "weekly_baseline": 140,
       "last_check_solved": 106,
-      "history": [
-        {
-          "id": "1912152519",
-          "title": "Jewels and Stones",
-          "titleSlug": "jewels-and-stones",
-          "timestamp": "1770533622"
-        },
-        {
-          "id": "1912291432",
-          "title": "Copy List with Random Pointer",
-          "titleSlug": "copy-list-with-random-pointer",
-          "timestamp": "1770544589"
-        },
-        {
-          "id": "1911645135",
-          "title": "Diameter of Binary Tree",
-          "titleSlug": "diameter-of-binary-tree",
-          "timestamp": "1770492773"
-        },
-        {
-          "id": "1911656233",
-          "title": "Balanced Binary Tree",
-          "titleSlug": "balanced-binary-tree",
-          "timestamp": "1770493773"
-        },
-        {
-          "id": "1911673438",
-          "title": "Same Tree",
-          "titleSlug": "same-tree",
-          "timestamp": "1770495455"
-        },
-        {
-          "id": "1911682409",
-          "title": "Subtree of Another Tree",
-          "titleSlug": "subtree-of-another-tree",
-          "timestamp": "1770496409"
-        },
-        {
-          "id": "1910507881",
-          "title": "Permutation in String",
-          "titleSlug": "permutation-in-string",
-          "timestamp": "1770397970"
-        },
-        {
-          "id": "1910567637",
-          "title": "Invert Binary Tree",
-          "titleSlug": "invert-binary-tree",
-          "timestamp": "1770400942"
-        },
-        {
-          "id": "1910586070",
-          "title": "Maximum Depth of Binary Tree",
-          "titleSlug": "maximum-depth-of-binary-tree",
-          "timestamp": "1770401876"
-        },
-        {
-          "id": "1909513842",
-          "title": "Longest Substring Without Repeating Characters",
-          "titleSlug": "longest-substring-without-repeating-characters",
-          "timestamp": "1770317920"
-        },
-        {
-          "id": "1909467625",
-          "title": "Search in Rotated Sorted Array",
-          "titleSlug": "search-in-rotated-sorted-array",
-          "timestamp": "1770315297"
-        },
-        {
-          "id": "1909492561",
-          "title": "Best Time to Buy and Sell Stock",
-          "titleSlug": "best-time-to-buy-and-sell-stock",
-          "timestamp": "1770316549"
-        }
-      ]
+      "history": []
     },
     "walter1618": {
       "total_solved": 95,
@@ -148,5 +50,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-08T18:25:23.986081+00:00"
+  "last_updated": "2026-02-09T01:23:50.273394+00:00"
 }
