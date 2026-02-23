@@ -9,9 +9,22 @@
     },
     "lynda0214": {
       "total_solved": 109,
-      "weekly_baseline": 109,
+      "weekly_baseline": 107,
       "last_check_solved": 91,
-      "history": []
+      "history": [
+        {
+          "id": "1928509207",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "timestamp": "1771851804"
+        },
+        {
+          "id": "1928513938",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "timestamp": "1771852143"
+        }
+      ]
     },
     "ssbomb": {
       "total_solved": 2,
@@ -50,5 +63,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-23T12:43:43.583703+00:00"
+  "last_updated": "2026-02-23T18:53:20.023675+00:00"
 }
