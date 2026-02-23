@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-02-16T00:00:00+00:00",
+  "week_start": "2026-02-23T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -39,16 +39,9 @@
     },
     "papple23g": {
       "total_solved": 141,
-      "weekly_baseline": 140,
+      "weekly_baseline": 141,
       "last_check_solved": 106,
-      "history": [
-        {
-          "id": "1920643830",
-          "title": "Check if a String Is an Acronym of Words",
-          "titleSlug": "check-if-a-string-is-an-acronym-of-words",
-          "timestamp": "1771217694"
-        }
-      ]
+      "history": []
     },
     "walter1618": {
       "total_solved": 95,
@@ -57,5 +50,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-02-22T18:24:15.190062+00:00"
+  "last_updated": "2026-02-23T01:21:57.951087+00:00"
 }
