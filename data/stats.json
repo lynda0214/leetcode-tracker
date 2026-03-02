@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-02-23T00:00:00+00:00",
+  "week_start": "2026-03-02T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -9,22 +9,9 @@
     },
     "lynda0214": {
       "total_solved": 109,
-      "weekly_baseline": 107,
+      "weekly_baseline": 109,
       "last_check_solved": 91,
-      "history": [
-        {
-          "id": "1928509207",
-          "title": "Merge Two Sorted Lists",
-          "titleSlug": "merge-two-sorted-lists",
-          "timestamp": "1771851804"
-        },
-        {
-          "id": "1928513938",
-          "title": "Linked List Cycle",
-          "titleSlug": "linked-list-cycle",
-          "timestamp": "1771852143"
-        }
-      ]
+      "history": []
     },
     "ssbomb": {
       "total_solved": 2,
@@ -63,5 +50,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-03-01T18:22:16.052052+00:00"
+  "last_updated": "2026-03-02T01:20:22.532777+00:00"
 }
