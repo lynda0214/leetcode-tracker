@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-03-09T00:00:00+00:00",
+  "week_start": "2026-03-16T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -45,23 +45,10 @@
     },
     "walter1618": {
       "total_solved": 96,
-      "weekly_baseline": 94,
+      "weekly_baseline": 96,
       "last_check_solved": 86,
-      "history": [
-        {
-          "id": "1942991712",
-          "title": "Search Insert Position",
-          "titleSlug": "search-insert-position",
-          "timestamp": "1773069747"
-        },
-        {
-          "id": "1943028061",
-          "title": "Find Smallest Letter Greater Than Target",
-          "titleSlug": "find-smallest-letter-greater-than-target",
-          "timestamp": "1773071763"
-        }
-      ]
+      "history": []
     }
   },
-  "last_updated": "2026-03-15T18:27:41.802411+00:00"
+  "last_updated": "2026-03-16T01:45:00.234068+00:00"
 }
