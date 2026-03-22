@@ -14,10 +14,17 @@
       "history": []
     },
     "ssbomb": {
-      "total_solved": 2,
+      "total_solved": 3,
       "weekly_baseline": 2,
       "last_check_solved": 0,
-      "history": []
+      "history": [
+        {
+          "id": "1955529307",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "timestamp": "1774164566"
+        }
+      ]
     },
     "johnwang00": {
       "total_solved": 0,
@@ -50,5 +57,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-03-22T06:40:34.751787+00:00"
+  "last_updated": "2026-03-22T12:32:53.464178+00:00"
 }
