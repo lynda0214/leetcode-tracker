@@ -14,10 +14,16 @@
       "history": []
     },
     "ssbomb": {
-      "total_solved": 3,
+      "total_solved": 4,
       "weekly_baseline": 2,
       "last_check_solved": 0,
       "history": [
+        {
+          "id": "1955810752",
+          "title": "Reverse Linked List II",
+          "titleSlug": "reverse-linked-list-ii",
+          "timestamp": "1774188707"
+        },
         {
           "id": "1955529307",
           "title": "Reverse Linked List",
@@ -57,5 +63,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-03-22T12:32:53.464178+00:00"
+  "last_updated": "2026-03-22T18:25:49.715674+00:00"
 }
