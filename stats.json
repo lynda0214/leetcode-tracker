@@ -14,10 +14,16 @@
       "history": []
     },
     "ssbomb": {
-      "total_solved": 6,
+      "total_solved": 7,
       "weekly_baseline": 4,
       "last_check_solved": 0,
       "history": [
+        {
+          "id": "1961984031",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "timestamp": "1774714180"
+        },
         {
           "id": "1961620427",
           "title": "Longest Alternating Subarray",
@@ -63,5 +69,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-03-28T12:36:22.933457+00:00"
+  "last_updated": "2026-03-28T18:29:03.284642+00:00"
 }
