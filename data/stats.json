@@ -14,10 +14,16 @@
       "history": []
     },
     "ssbomb": {
-      "total_solved": 5,
+      "total_solved": 6,
       "weekly_baseline": 4,
       "last_check_solved": 0,
       "history": [
+        {
+          "id": "1961620427",
+          "title": "Longest Alternating Subarray",
+          "titleSlug": "longest-alternating-subarray",
+          "timestamp": "1774691280"
+        },
         {
           "id": "1957975978",
           "title": "Longest Turbulent Subarray",
@@ -57,5 +63,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-03-28T06:49:06.492621+00:00"
+  "last_updated": "2026-03-28T12:36:22.933457+00:00"
 }
