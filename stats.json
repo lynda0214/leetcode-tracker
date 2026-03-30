@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-03-23T00:00:00+00:00",
+  "week_start": "2026-03-30T00:00:00+00:00",
   "users": {
     "ismyaki": {
       "total_solved": 27,
@@ -15,28 +15,9 @@
     },
     "ssbomb": {
       "total_solved": 7,
-      "weekly_baseline": 4,
+      "weekly_baseline": 7,
       "last_check_solved": 0,
-      "history": [
-        {
-          "id": "1961984031",
-          "title": "Reverse String",
-          "titleSlug": "reverse-string",
-          "timestamp": "1774714180"
-        },
-        {
-          "id": "1961620427",
-          "title": "Longest Alternating Subarray",
-          "titleSlug": "longest-alternating-subarray",
-          "timestamp": "1774691280"
-        },
-        {
-          "id": "1957975978",
-          "title": "Longest Turbulent Subarray",
-          "titleSlug": "longest-turbulent-subarray",
-          "timestamp": "1774370096"
-        }
-      ]
+      "history": []
     },
     "johnwang00": {
       "total_solved": 0,
@@ -69,5 +50,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-03-29T18:30:18.337631+00:00"
+  "last_updated": "2026-03-30T01:47:54.533150+00:00"
 }
