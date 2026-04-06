@@ -14,10 +14,17 @@
       "history": []
     },
     "ssbomb": {
-      "total_solved": 7,
+      "total_solved": 8,
       "weekly_baseline": 7,
       "last_check_solved": 0,
-      "history": []
+      "history": [
+        {
+          "id": "1970718463",
+          "title": "Reverse String II",
+          "titleSlug": "reverse-string-ii",
+          "timestamp": "1775491464"
+        }
+      ]
     },
     "johnwang00": {
       "total_solved": 0,
@@ -50,5 +57,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-04-06T12:52:44.842386+00:00"
+  "last_updated": "2026-04-06T18:45:10.923832+00:00"
 }
