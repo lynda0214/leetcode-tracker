@@ -2,10 +2,29 @@
   "week_start": "2026-04-06T00:00:00+00:00",
   "users": {
     "ismyaki": {
-      "total_solved": 27,
+      "total_solved": 30,
       "weekly_baseline": 27,
       "last_check_solved": 5,
-      "history": []
+      "history": [
+        {
+          "id": "1973247765",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "timestamp": "1775714400"
+        },
+        {
+          "id": "1973261631",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "timestamp": "1775715359"
+        },
+        {
+          "id": "1973271949",
+          "title": "N-th Tribonacci Number",
+          "titleSlug": "n-th-tribonacci-number",
+          "timestamp": "1775716099"
+        }
+      ]
     },
     "lynda0214": {
       "total_solved": 109,
@@ -57,5 +76,5 @@
       "history": []
     }
   },
-  "last_updated": "2026-04-09T01:24:58.849568+00:00"
+  "last_updated": "2026-04-09T07:12:21.365269+00:00"
 }
